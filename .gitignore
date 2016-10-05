@@ -21,7 +21,7 @@ core
 /*.asm
 /Makefile
 /config.cache
-/config.h
+#/config.h
 /config.h.in
 /config.log
 /config.m4
@@ -31,7 +31,7 @@ core
 /autom4te.cache
 /stamp-h
 /stamp-h.in
-/nettle-stdint.h
+#/nettle-stdint.h
 /*.pc
 /machine.m4
 /aesdata
@@ -46,8 +46,8 @@ core
 /rotors.h
 /ecc-192.h
 /ecc-224.h
-/ecc-256.h
-/ecc-384.h
+#/ecc-256.h
+#/ecc-384.h
 /ecc-521.h
 /ecc-25519.h
 /nettle.aux
