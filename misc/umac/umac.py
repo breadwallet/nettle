@@ -7,7 +7,6 @@
 
 import rijndael
 import struct
-import fileinput
 import sys
 import binascii
 
